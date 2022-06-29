@@ -1,0 +1,20 @@
+.form-control{
+    width:600px;
+    margin-left:20px;
+    border-radius:4px;
+
+
+}
+
+
+
+
+
+.search-icon{
+
+    position: relative;
+    left: -31px;
+    top: 6px;
+    color:blue;
+
+}
